@@ -9,16 +9,12 @@ export default class Hello extends Component {
         }
     }
 
-
-
     subscribe() {
         this.setState({
             message: "Thannk you",
             value: "subscribed"
         })
     }
-
-
 
     render() {
         const { message, value } = this.state
