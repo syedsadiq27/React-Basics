@@ -1,0 +1,29 @@
+What is JS 
+What is JSX
+How to write JS Components
+How to write JSX Components
+Which is better / Easier
+Will my browser understand JS / JSX
+if not what is needed to make it understand?
+
+
+JavaScript.. 
+setTimeout vs setInteraval 
+Call vs apply vs bind
+Closures
+sync and async?
+
+HTML , CSS
+z-index
+flexbox
+box model
+
+
+--------
+output of functions:
+console.log(1);
+setTimeout(function(){console.log(2)}, 3000);
+console.log(3);
+
+
+
